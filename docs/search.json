@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGayoung Son\r\n\r\n\r\n\r\n\r\n\r\n☰\r\n\r\n\r\n  \r\n    \r\n      \r\n        \r\n        \r\n        \r\n      \r\n      \r\n    \r\n    \r\n      \r\n  \r\n    \r\n     \r\n  \r\n\r\n      \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\nContact\r\n\r\n\r\n\r\n\r\nGayoung Son g.son@unibas.ch\r\nUniversity of Basel Missionsstrasse 64A 4054 Basel Switzerland\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-09-06T13:02:14+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Gayoung's Website",
+      "author": [
+        {
+          "name": "Gayoung Son",
+          "url": {}
+        }
+      ],
+      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          Gayoung Son\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Gayoung’s Website\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I am a classically trained data scientist living in the\r\n            San Francisco Bay Area. Currently I work on the Oculus team\r\n            at Facebook. I love talking about baseball, true crime\r\n            podcasts, and causal inference\r\n            \r\n            Acknowledgments\r\n            This is website made with the distill\r\n            package and a custom theme by Alison Hill & Desirée De Leon.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Gayoung’s Website\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference\r\n              \r\n              Acknowledgments\r\n              This is website made with the distill\r\n              package and a custom theme by Alison Hill & Desirée De Leon.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-06-06T10:05:50+02:00"
+    }
+  ],
+  "collections": []
+}

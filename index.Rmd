@@ -1,0 +1,41 @@
+---
+title: "Gayoung's Website"
+author:
+- name: Gayoung Son
+  url: 
+  affiliation: University of Basel, Switzerland
+  affiliation_url: https://psychologie.unibas.ch/
+image: "images/gayoung.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/gayoung-son"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r packages, include = FALSE}
+# This following packages are needed to build this website:
+# install.packages(c("distill", "rmarkdown", "postcards"))
+library(distill)
+library(rmarkdown)
+library(postcards)
+```
+
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference
+
+## Acknowledgments {.appendix}
+
+This is website made with the [distill package](https://rstudio.github.io/distill/) and a custom theme by Alison Hill & [Desirée De Leon](https://desiree.rbind.io/).
