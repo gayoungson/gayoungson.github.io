@@ -1,14 +1,12 @@
-name: "gayoung-son"
+name: "Gayoung Website"
 title: "Gayoung Son"
 description: |
-  Test website for a portfolio
+  Gayoung's Personal Website
 output_dir: "docs"
-repository_url: https://github.com/gayoungson/gayoungson.github.io
 navbar:
-  logo:
-    image: images\logo.png
-    href: https://www.rstudio.com
   right:
+    - text: "Contact"
+      href: contact.html
     - icon: fab fa-github
       href: https://github.com/gayoungson/gayoungson.github.io
 output: 

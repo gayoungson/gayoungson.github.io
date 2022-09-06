@@ -748,6 +748,8 @@ d-article pre code {
   }
 }
 
+
+
 /* -------------Appendix---------------- */
 
 d-appendix {
@@ -815,6 +817,7 @@ d-article ul > li { /*to add back in space between bullet items that I took away
 .d-toc ul li::before {
   content: " ";  /* Remove toc bullets */
 }
+
 
 
 </style>
@@ -1050,12 +1053,10 @@ $(document).ready(function () {
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a class="logo" href="https://www.rstudio.com">
-<img src="images\logo.png" alt="Logo"/>
-</a>
 <a href="index.html" class="title">Gayoung Son</a>
 </div>
 <div class="nav-right">
+<a href="contact.html">Contact</a>
 <a href="https://github.com/gayoungson/gayoungson.github.io">
 <i class="fab fa-github" aria-hidden="true"></i>
 </a>
@@ -1083,6 +1084,9 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
+  <a href="contact.html">Contact</a>
+</li>
+<li>
   <a href="https://github.com/gayoungson/gayoungson.github.io">
     <span class="fab fa-github"></span>
      
@@ -1102,8 +1106,21 @@ $(document).ready(function () {
 </div>
 
 
-<p>Gayoung Son <a href="mailto:g.son@unibas.ch">g.son@unibas.ch</a>
-University of Basel Missionsstrasse 64A 4054 Basel Switzerland</p>
+<div id="gayoung-son" class="section level3">
+<h3>Gayoung Son</h3>
+<p><a href="mailto:g.son@unibas.ch">g.son@unibas.ch</a><br />
+University of Basel<br />
+Missionsstrasse 64A<br />
+4054 Basel<br />
+Switzerland</p>
+</div>
+<div id="acknowledgments" class="section level3 appendix">
+<h3 class="appendix">Acknowledgments</h3>
+<p>This website was made by <a href="mailto:g.son@unibas.ch">Gayoung
+Son</a> with the <a href="https://rstudio.github.io/distill/">distill
+package</a> and a custom theme by Alison Hill &amp; <a
+href="https://desiree.rbind.io/">Desirée De Leon</a>.</p>
+</div>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->

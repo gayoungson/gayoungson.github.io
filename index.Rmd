@@ -1,23 +1,19 @@
 ---
-title: "Gayoung's Website"
-author:
-- name: Gayoung Son
-  url: 
-  affiliation: University of Basel, Switzerland
-  affiliation_url: https://psychologie.unibas.ch/
+title: "Gayoung Son"
 image: "images/gayoung.jpg"
+description: |
+  Psychology Student interested in clinical and cross-cultural psychology and data science
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/gayoung-son"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+    url: "https://www.linkedin.com/in/gayoung-son/"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-9795-1483"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:g.son@unibas.ch"
 output:
   postcards::trestles
 site: distill::distill_website
+
 ---
 
 ```{r setup, include=FALSE}
@@ -32,10 +28,7 @@ library(rmarkdown)
 library(postcards)
 ```
 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference
+# Welcome!
+&nbsp;  
 
-## Acknowledgments {.appendix}
-
-This is website made with the [distill package](https://rstudio.github.io/distill/) and a custom theme by Alison Hill & [Desirée De Leon](https://desiree.rbind.io/).
+I am currently a Masters student at Clinical Psychology and Neuroscience, University of Basel. Understanding human behavior and cognitive processes has always been one of the main motivators for my education. I am passionate about deepening my knowledge in research methodology and learning about new methods in psychological research. For more information, please refer to my [CV](resources/cv.pdf).

@@ -123,6 +123,8 @@ d-article pre code {
   }
 }
 
+
+
 /* -------------Appendix---------------- */
 
 d-appendix {
@@ -190,4 +192,5 @@ d-article ul > li { /*to add back in space between bullet items that I took away
 .d-toc ul li::before {
   content: " ";  /* Remove toc bullets */
 }
+
 

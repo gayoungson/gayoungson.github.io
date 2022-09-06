@@ -7,9 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Gayoung Son
-[g.son@unibas.ch](mailto:g.son@unibas.ch)
-University of Basel
-Missionsstrasse 64A
-4054 Basel
+### Gayoung Son
+
+[g.son@unibas.ch](mailto:g.son@unibas.ch)  
+University of Basel  
+Missionsstrasse 64A  
+4054 Basel  
 Switzerland
+
+
+### Acknowledgments {.appendix}
+
+This website was made by [Gayoung Son](mailto:g.son@unibas.ch) with the [distill package](https://rstudio.github.io/distill/) and a custom theme by Alison Hill & [Desirée De Leon](https://desiree.rbind.io/).
