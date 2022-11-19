@@ -31,4 +31,4 @@ library(postcards)
 # Welcome!
 &nbsp;  
 
-I am currently a Masters student at Clinical Psychology and Neuroscience, University of Basel. Understanding human behavior and cognitive processes has always been one of the main motivators for my education. I am passionate about deepening my knowledge in research methodology and learning about new methods in psychological research. For more information, please refer to my [CV](resources/cv.pdf).
+I am currently a Masters student at Clinical Psychology and Neuroscience, University of Basel. Understanding human behavior and cognitive processes has always been one of the main motivators for my education. I am passionate about deepening my knowledge in research methodology and learning about new methods in psychological research. 

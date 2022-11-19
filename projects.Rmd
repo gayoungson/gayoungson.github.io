@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Research Experience
+
+#### Research Assistant at the Center for Cognitive and Decisions Sciences (CDS), University of Basel, Switzerland
+
+I am currently employed as a Research Assistant at the [Center for Cognitive and Decision Sciences](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), where I have been involved in diverse [research projects](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/research/). I have extensive experience in conducting meta-analyses, analyzing longitudinal studies and visualization of research results. My other responsibilities span from preparing for lectures to providing R Training for students.
+
+Check out some of my R-related projects in the following links:
+
+[R Training for Students at the Center for Cognitive and Decision Sciences (CDS)](https://cdsbasel.github.io/rtraining/)
+
+[BEACON 2022: Create your personal website](https://matarui.github.io/beacon/)
+
+[CDS Risk Hackathon](https://cdsbasel.github.io/risk/)
+
+
+#### Intership for Dr. Amber Gayle Thalmayer, University of Zürich, Switzerland
+
+For my BSc Internship, I traveled to Namibia for 6 weeks as part of the [SNF-funded project: Personality and Mental Health in Namibia](), Dr. Amber Gayle Thalmayer. I was responsible for data collection and management, collaborating with local researchers at the University of Namibia. For the last 4 weeks of the internship, I was there without my supervisor and oversaw the data collection, traveling to different parts of Namibia in order to distribute and collect finished surveys. I also contributed to publications with data analyses and manuscript reviewing. 
+
+
+
+
+
